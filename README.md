@@ -60,7 +60,7 @@ Input (128\*128) >> Output (512\*512)
 
 ![Example1](./Results/results1.png)
 
-Metrics such as **PSNR (Peak Signal-to-Noise Ratio)**, **SSIM (Structural Similarity Index)**, and **MSE (Mean Squared Error)**are calculated to validate the enhancement quality.
+Metrics such as **PSNR (Peak Signal-to-Noise Ratio)**, **SSIM (Structural Similarity Index)**, and **MSE (Mean Squared Error)** are calculated to validate the enhancement quality.
 
 PSNR: 32.9906
 SSIM: 0.9257
